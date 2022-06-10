@@ -1,1 +1,5 @@
-# cv
+- 👋 Hi, I’m @usaithabbas.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to collaborate on back end developers.
+- 📫 you guys can reach me @pcasd21cs029@gmail.com. 
