@@ -40,7 +40,9 @@ h2{
 .po{
   color: white;
   font-size: 3rem;
-  float: right;
+  margin-left: 500px;
+  position: relative;
+  bottom: 200px;  
 }
 
 .ko{
