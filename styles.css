@@ -1,0 +1,97 @@
+body{
+  margin: 0px;
+}
+
+h2{
+  color:#66bfbf;
+  margin: 0px;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 10%;
+
+}
+
+.nav{
+  overflow:hidden;
+  background-color: #ff4c68;
+  width: 100%;
+  z-index: 999;
+  position: fixed;
+}
+
+.nav  a{
+   float: right;
+  font-size: 140%;
+   text-decoration: none;
+   padding: 14px;
+   font-family: cursive;
+   color: white;
+}
+
+.nav a:hover{
+     color: blue;
+}
+
+.nav a.active{
+  color: #EAF5F6;
+}
+
+
+.po{
+  color: white;
+  font-size: 3rem;
+  float: right;
+  margin-right: 30%;
+  margin-top: 15%;
+}
+
+.ko{
+  position: absolute;
+  right: 90%;
+}
+
+marquee{
+  padding-top: 7%;
+  color: white;
+    font-size: 4rem;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.top-conatiner{
+  padding-bottom: 10%;
+}
+
+.middle-container p{
+  margin: 0px;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  color:#66bfbf;
+  font-family:inherit;
+  line-height: 3;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.space{
+    margin-left: 1.5%;
+}
+
+.chiko{
+  margin: 0px;
+}
+
+.bottom-container p{
+  margin: 0px;
+  color: White;
+}
